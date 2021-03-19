@@ -1,2 +1,2 @@
 def bka(a):
-  return 2*b
+  return 2*a
